@@ -1,48 +1,26 @@
-<div align="center">
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 
-# Manit Bhattarai
+<h1 align="center">Manit Bhattarai</h1>
 
-### Data Engineering • AI Systems • Machine Learning
+<p align="center">
+  <b>Data Engineering • AI Systems • Machine Learning</b>
+</p>
 
-*"Building practical software at the intersection of data, backend engineering, and intelligent systems."*
-
-</div>
-
----
-
-## About Me
-
-I'm a Computer Science undergraduate passionate about building reliable software that transforms data into meaningful applications. My interests span **Data Engineering**, **Artificial Intelligence**, **Machine Learning**, and **Backend Development**, with a strong focus on writing clean, maintainable, and scalable code.
-
-I enjoy exploring modern AI systems, designing efficient data pipelines, and understanding how intelligent applications are built from the ground up. My goal is to continuously improve as an engineer by learning new technologies while strengthening core computer science fundamentals.
+<p align="center">
+Building practical software with a focus on scalable data infrastructure, backend systems, and intelligent applications.
+</p>
 
 ---
 
-## Tech Stack
+### 💻 Tech Stack
 
-### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,postgres,docker,git,linux,vscode,fastapi&perline=8" />
+</p>
 
-`Python` • `C++` • `SQL`
-
-### Data Engineering
-
-`PostgreSQL` • `Docker` • `dbt` • `Pandas` • `NumPy`
-
-### Machine Learning
-
-`Scikit-learn` • `XGBoost`
-
-### Backend
-
-`FastAPI` • `REST APIs`
-
-### Tools
-
-`Git` • `GitHub` • `Linux` • `VS Code`
-
----
-
-## Areas of Interest
+### 📚 Interests
 
 - Data Engineering
 - Artificial Intelligence
@@ -52,10 +30,3 @@ I enjoy exploring modern AI systems, designing efficient data pipelines, and und
 - Systems Programming
 
 ---
-
-<div align="center">
-
-> *"The best way to learn is to build."*
-
-</div>
-
