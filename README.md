@@ -1,66 +1,62 @@
 ```markdown
-# Hi, I'm Manit Bhattarai 👋
+<div align="center">
 
-I'm a Computer Science undergraduate interested in **Data Engineering**, **AI Systems**, and **Machine Learning**. I enjoy building practical software that combines backend engineering, data pipelines, and intelligent systems.
+# Manit Bhattarai
 
----
+### Data Engineering • AI Systems • Machine Learning
 
-## 🚀 Currently Working On
+*"Building practical software at the intersection of data, backend engineering, and intelligent systems."*
 
-- 📚 Data Engineering Zoomcamp
-- 🤖 AI Agent Development
-- ☁️ Expanding my cloud and data engineering skills
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### Languages
-- Python
-- C++
-- SQL
+I'm a Computer Science undergraduate passionate about building reliable software that transforms data into meaningful applications. My interests span **Data Engineering**, **Artificial Intelligence**, **Machine Learning**, and **Backend Development**, with a strong focus on writing clean, maintainable, and scalable code.
+
+I enjoy exploring modern AI systems, designing efficient data pipelines, and understanding how intelligent applications are built from the ground up. My goal is to continuously improve as an engineer by learning new technologies while strengthening core computer science fundamentals.
+
+---
+
+## Tech Stack
+
+### Programming Languages
+
+`Python` • `C++` • `SQL`
 
 ### Data Engineering
-- PostgreSQL
-- Docker
-- dbt
-- Pandas
-- NumPy
+
+`PostgreSQL` • `Docker` • `dbt` • `Pandas` • `NumPy`
 
 ### Machine Learning
-- Scikit-learn
-- XGBoost
+
+`Scikit-learn` • `XGBoost`
 
 ### Backend
-- FastAPI
-- Git
-- GitHub
+
+`FastAPI` • `REST APIs`
+
+### Tools
+
+`Git` • `GitHub` • `Linux` • `VS Code`
 
 ---
 
-## 📌 Featured Projects
+## Areas of Interest
 
-### 🤖 Multi-Agent Retrieval System
-A modular Retrieval-Augmented Generation (RAG) system capable of routing user queries across multiple specialized agents, including PDF retrieval, ArXiv search, and web search.
-
-**Tech:** Python, FastAPI, Gemini API, FAISS, Docker
-
----
-
-### ⚙️ Machine Failure Prediction
-End-to-end predictive maintenance pipeline built using industrial sensor data with feature engineering, class imbalance handling, and XGBoost.
-
-**Tech:** Python, Scikit-learn, XGBoost, Pandas
+- Data Engineering
+- Artificial Intelligence
+- Machine Learning
+- Backend Development
+- Distributed Systems
+- Systems Programming
 
 ---
 
-### 🏗️ Data Engineering Internship
-Developed a containerized data ingestion pipeline using Python, PostgreSQL, Docker, and dbt for processing customer, product, and sales datasets.
+<div align="center">
 
----
+> *"The best way to learn is to build."*
 
-## 📫 Connect
-
-- LinkedIn: https://www.linkedin.com/in/manit-bhattarai-7b4150289/
-- Email: bhattarai.manit@gmail.com
+</div>
 ```
