@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Manit Bhattarai
@@ -59,4 +58,4 @@ I enjoy exploring modern AI systems, designing efficient data pipelines, and und
 > *"The best way to learn is to build."*
 
 </div>
-```
+
